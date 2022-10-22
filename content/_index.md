@@ -1,8 +1,15 @@
 +++
-author = "vietanhdev"
+author = "Jens Tejlgaard"
 title = "Home"
 +++
 
-{{< quote author="Andrew Ng">}}
-It is difficult to think of a major industry that AI will not transform. This includes healthcare, education, transportation, retail, communications, and agriculture. There are surprisingly clear paths for AI to make a big difference in all of these industries.
+{{< quote author="Jens Tejlgaard">}}
+**KOM MED TIL SKOLESKAK** 
+
+Strategi - Koncentration - Venner
+
+Vi spiller fra september til april på Hornslet Skole - og DU er velkommen!  
+
+Torsdag 15.30 - 17.30
+
 {{< /quote >}}
