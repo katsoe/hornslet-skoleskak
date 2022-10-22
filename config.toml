@@ -69,7 +69,7 @@ mainSections = ["posts"] # see config details here https://gohugo.io/functions/w
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logo.png"
+logo = "logo-skoleskak.jpg"
 
 # Set the collapsed mobile navigation to either appear from the left or the right
 mobileNavigation = "right" # if you prefer right change to 'right'
