@@ -1,8 +1,8 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://aicurious.io/"  # Include trailing slash
-title = "HugoCurious"
-author = "Viet-Anh Nguyen"
+baseurl = "https://skoleskak.makronaut.dk/"  # Include trailing slash
+title = "Hornslet Skoleskak"
+author = "Katrine Søndergård"
 #canonifyurls = true
 paginate = 8
 PaginatePath = "/posts/"
