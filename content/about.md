@@ -1,12 +1,12 @@
 ---
-title: "About me"
-slug: "/about/"
-discussionId: "/about/"
-date: 2020-10-10
-published: false
+title: "Vores klub"
+slug: "/om-os/"
+discussionId: "/om-os/"
+date: 2022-10-10
+published: 
 ---
 
-<img id="my-photo" alt="Viet Anh Nguyen" src="/images/engineer.png">
+<img id="my-photo" alt="Hornslet Skoleskak" src="/images/engineer.png">
 <style>
 #my-photo {
     width: 16rem;
@@ -23,8 +23,21 @@ published: false
 }
 </style>
 
-**Hello!** I'm **John Doe** - A Machine Learning & Robotics Engineer.
+**Bestyrelsen og kontingent**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat velit scelerisque in dictum. Ut ornare lectus sit amet. Eu lobortis elementum nibh tellus molestie. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Id nibh tortor id aliquet lectus proin nibh nisl condimentum. Faucibus vitae aliquet nec ullamcorper sit amet. Eget nulla facilisi etiam dignissim. Dignissim diam quis enim lobortis scelerisque fermentum. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi. Donec ac odio tempor orci dapibus. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique.
+Hornslet Skoleskaks bestyrelse består af
+- Formand: Anne Juul-Madsen
+- Kasserer: Jens Tejlgaard
+- Bestyrelsesmedlem: Kai Washeim
+- Revisor: Henrik Friis
 
-Habitasse platea dictumst vestibulum rhoncus est. Turpis egestas sed tempus urna et. Dui faucibus in ornare quam viverra orci. Amet luctus venenatis lectus magna fringilla urna. Velit euismod in pellentesque massa placerat duis ultricies lacus. Ac odio tempor orci dapibus ultrices. Sapien eget mi proin sed libero enim sed faucibus turpis. Rhoncus dolor purus non enim. Et malesuada fames ac turpis egestas. Ultrices vitae auctor eu augue. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Orci phasellus egestas tellus rutrum. Et malesuada fames ac turpis egestas integer eget aliquet nibh. 
+**Kontingent:**
+
+Fuldt medlemskab: 200 kr. halvårligt - dækker også delvis medlemskab af Syddjurs Skakklub
+
+Passivt medlemskab: 100 kr. halvårligt
+Et passivt medlemskab dækker
+. Man stiller op for Hornslet Skoleskak ved GP-turneringer.
+. Man er automatisk medlem af Dansk Skoleskak.
+. Man er velkommen til ind imellem at komme om torsdagen, hvis der er mulighed for det.
+. Til gengæld kan man ikke deltage i Hornslet Skoleskaks juleturnering og klubturnering.
