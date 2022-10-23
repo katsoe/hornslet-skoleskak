@@ -4,6 +4,7 @@ thumbnail: "/posts/apollo-sdc-lessons-intro/apollo.jpg"
 discussionId: "/posts/apollo-sdc-lessons-intro/"
 date: 2021-02-04
 toc: true
+published: false
 draft: false
 slug: "/posts/apollo-sdc-lessons-intro/"
 categories: ["Self-Driving Cars"]

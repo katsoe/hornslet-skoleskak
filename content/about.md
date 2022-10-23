@@ -3,6 +3,7 @@ title: "About me"
 slug: "/about/"
 discussionId: "/about/"
 date: 2020-10-10
+published: false
 ---
 
 <img id="my-photo" alt="Viet Anh Nguyen" src="/images/engineer.png">
