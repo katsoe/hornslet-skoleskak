@@ -8,7 +8,7 @@ paginate = 8
 PaginatePath = "/posts/"
 theme = "hugo-curious"
 
-DefaultContentLanguage = "da"
+DefaultContentLanguage = "en"
 # [languages]
 # config/_default/languages.toml
 
@@ -66,7 +66,7 @@ fallBackOgImage = "images/thumbnail.jpg"
 # directory(s) where your articles are located
 mainSections = ["posts"] # see config details here https://gohugo.io/functions/where/#mainsections
 
-center logo on navbar
+# center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
 logo = "logo-skoleskak.jpg"
