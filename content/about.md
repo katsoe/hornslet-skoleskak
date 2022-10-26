@@ -3,25 +3,8 @@ title: "Vores klub"
 slug: "/om-os/"
 discussionId: "/om-os/"
 date: 2022-10-10
-published: 
+featureImage: /images/DM2018.jpg
 ---
-
-<img id="my-photo" alt="Hornslet Skoleskak" src="/images/engineer.png">
-<style>
-#my-photo {
-    width: 16rem;
-    margin:0;
-    padding: 0;
-    margin: 1rem 1rem 0.5rem 0;
-    border-radius: 50%;
-    clear: both;
-}
-@media screen and (min-width: 400px) {
-    #my-photo {
-        float: right;
-    }
-}
-</style>
 
 **Bestyrelsen og kontingent**
 

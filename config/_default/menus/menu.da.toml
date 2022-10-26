@@ -1,9 +1,4 @@
 [[main]]
-  name = "Forside"
-  url = "/index"
-  weight = 10
-
-[[main]]
   name = "Aktivitetskalender"
   url = "/aktivitetskalender/"
   weight = 20
@@ -15,5 +10,5 @@
 
 [[main]]
   name = "Kontakt"
-  url = "/kontakt/"
+  url = "/kontakt"
   weight = 40

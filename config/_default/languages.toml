@@ -1,5 +1,8 @@
-
-[en]
-  title = "Hugo Curious"
-  LanguageName = "English"
+[da]
+  title = "Hornslet Skoleskak"
+  LanguageName = "Danish"
   weight = 1
+[en]
+  title = "Hornslet Skoleskak"
+  LanguageName = "English"
+  weight = 2

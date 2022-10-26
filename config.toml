@@ -4,11 +4,11 @@ baseurl = "https://skoleskak.makronaut.dk/"  # Include trailing slash
 title = "Hornslet Skoleskak"
 author = "Jens Tejlgaard"
 #canonifyurls = true
-paginate = 8
+paginate = 6
 PaginatePath = "/posts/"
 theme = "hugo-curious"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "da"
 # [languages]
 # config/_default/languages.toml
 
@@ -45,12 +45,12 @@ series = "series"
   notes = "/:slug/"
 
 [params]
-author = "Viet-Anh Nguyen"
-twitter = "@vietanhdev"
+author = "Jens Tejlgaard"
+twitter = ""
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers."
-description = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers." # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
-searchTypes = ["posts", "notes"]
+introDescription = "Hornslet Skoleskak er en skakklub for børn i skolealderen. Vi spiller i klassefløjen i stuen lige over for SFOen hver torsdag fra 15:30 - 17:30"
+description = ""
+searchTypes = ["posts"]
 
 codeLineNumbers = true
 
@@ -69,7 +69,7 @@ mainSections = ["posts"] # see config details here https://gohugo.io/functions/w
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logo-skoleskak.jpg"
+logo = "images/logo-skoleskak.jpg"
 
 # Set the collapsed mobile navigation to either appear from the left or the right
 mobileNavigation = "right" # if you prefer right change to 'right'
