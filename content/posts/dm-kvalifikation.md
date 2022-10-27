@@ -5,6 +5,7 @@ date: 2022-10-26
 description: DM-kvalifikation 2022/kredsmesterskab 2022 søndag d. 6. november
 thumbnail: /images/pexels-chess.jpg
 featureImage: /images/pexels-chess.jpg
+visible: true
 ---
 
 Søndag den 6. november kl. 9.30 – ca. 14.30 afholdes DM-kvalifikation 2022 og kredsmesterskab 2022.

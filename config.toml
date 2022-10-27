@@ -136,3 +136,73 @@ showCookieConsent = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[[collections]]
+name = "post"
+label = "Indlæg"
+folder = "content/posts"
+create = true
+
+  [collections.editor]
+  preview = false
+
+  [collections.filter]
+  field = "visible"
+  value = true
+
+  [[collections.fields]]
+  label = "Featured"
+  name = "featured"
+  widget = "boolean"
+  default = false
+
+  [[collections.fields]]
+  label = "Title"
+  name = "title"
+  widget = "string"
+
+  [[collections.fields]]
+  label = "Publish Date"
+  name = "date"
+  widget = "datetime"
+
+  [[collections.fields]]
+  label = "Visible"
+  name = "visible"
+  widget = "hidden"
+  default = true
+
+[[collections]]
+name = "note"
+label = "Indlæg"
+folder = "content/notes"
+create = true
+
+  [collections.editor]
+  preview = false
+
+  [collections.filter]
+  field = "visible"
+  value = true
+
+  [[collections.fields]]
+  label = "Featured"
+  name = "featured"
+  widget = "boolean"
+  default = false
+
+  [[collections.fields]]
+  label = "Title"
+  name = "title"
+  widget = "string"
+
+  [[collections.fields]]
+  label = "Publish Date"
+  name = "date"
+  widget = "datetime"
+
+  [[collections.fields]]
+  label = "Visible"
+  name = "visible"
+  widget = "hidden"
+  default = true

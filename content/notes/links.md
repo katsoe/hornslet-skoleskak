@@ -4,6 +4,7 @@ author: Jens Tejlgaard
 date: 2022-08-25
 description: 
 sidebar: true
+visible: true
 ---
 
 [Aarhus Skoleskak](http://www.aarhusskoleskak.dk)
