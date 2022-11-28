@@ -8,7 +8,7 @@ featureImage: /images/skakspil.jpg
 ---
 ![](/images/skakspil.jpg)
 
-Lørdag den 3. december afholdes Skanderborgmesterskabet 2022 på Niels Ebbeskolen, Højvangen Torv 4, 8660 Skanderborg. 
+Lørdag den 3. december afholdes Skanderborgmesterskabet 2022 på Niels Ebbesenskolen, Højvangen Torv 4, 8660 Skanderborg. 
 
 Der spilles i styrkegrupperne A-B-C-D-E-F og N.
 
