@@ -3,6 +3,8 @@ title: Skanderborgmesterskabet 2022
 date: 2022-11-27T11:39:19.142Z
 description: Skanderborgmesterskabet afholdes lørdag den 3. december kl. 9:30 på
   Niels Ebbesen Skolen
+thumbnail: /images/skakspil.jpg
+featureImage: /images/skakspil.jpg
 ---
 ![](/images/skakspil.jpg)
 
