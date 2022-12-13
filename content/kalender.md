@@ -44,5 +44,5 @@ date: 2022-10-10
 | 6. april | PÅSKEFERIE |
 | 13. marts | Træning |
 | *15. april* | *Aarhusmesterskabet* |
-| 20. marts | Træning |
-| 27. marts | AFSLUTNING |
+| 20. april | Træning |
+| 27. april | AFSLUTNING |
