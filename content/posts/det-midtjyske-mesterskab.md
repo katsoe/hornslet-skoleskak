@@ -1,5 +1,5 @@
 ---
-title: Det Midtjyske Mesterskab
+title: Det Midtjyske Mesterskab 2023
 date: 2022-12-16T15:36:10.911Z
 description: Det Midtjyske Mesterskab afholdes lørdag den 14. januar kl. 9:30 i
   Lunden i Silkeborg
