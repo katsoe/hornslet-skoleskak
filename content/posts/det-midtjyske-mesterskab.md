@@ -6,7 +6,6 @@ description: Det Midtjyske Mesterskab afholdes lørdag den 14. januar kl. 9:30 i
 thumbnail: /images/skakspil2.jpg
 featureImage: /images/skakspil2.jpg
 ---
-![](/images/skakspil2.jpg)
 
 Det Midtjyske Mesterskab afholdes lørdag den 14. januar kl. 9:30 i Lunden(Medborgerhus), Vestergade 74, 8600 Silkeborg.
 
