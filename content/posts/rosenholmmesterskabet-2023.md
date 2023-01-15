@@ -16,10 +16,4 @@ Pris:            40 kr.
 
 Grupper:     Gruppe A, B, C, D, E, F samt N.
 
-Indbydelsen kan findes på www.aarhusgrandprix.dkSted:           Hornslet Skole, Ballesvej 6, 8543 Hornslet
-
-Pris:            40 kr.
-
-Grupper:     Gruppe A, B, C, D, E, F samt N.
-
 Indbydelsen kan findes på www.aarhusgrandprix.dk
