@@ -2,10 +2,11 @@
 title: Rosenholmmesterskabet 2023
 date: 2023-01-15T15:50:50.275Z
 description: Rosenholmmesterskabet afholdes på Hornslet Skole lørdag den 4. februar.
+thumbnail: /images/pexels-chess.jpg
+featureImage: /images/pexels-chess.jpg
 ---
 
 
-![](/images/pexels-chess.jpg)
 
 Hornslet Skoleskak inviterer til kampen om at blive Rosenholmmester i skoleskak. Turneringen tæller med i Grand-Prix Mesterskabet.
 
