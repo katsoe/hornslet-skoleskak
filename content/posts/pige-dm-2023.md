@@ -9,4 +9,8 @@ P﻿ige-DM blev afholdt på Fredericia Realskole den 11.-12. marts.
 
 F﻿oruden Mille deltog Elisa Bundgaard Kühl i aldersgruppen 0.-2.-klasse. Gruppen var slået sammen med 3.-4. klasse. På trods af det opnåede Elisa 3,5 point og sluttede som nr. 15 i den samlede gruppe.
 
-![](/images/pige-dm2023.jpg "Mille Sinding danmarksmester")
+
+
+M﻿ille Sinding danmarksmester ved Pige-DM
+
+![](/images/pige-dm2023.jpg)
