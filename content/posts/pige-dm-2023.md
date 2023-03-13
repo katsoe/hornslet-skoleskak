@@ -2,8 +2,8 @@
 title: Pige-DM 2023
 date: 2023-03-12T16:02:31.357Z
 description: Mille Sinding har ved Pige-DM hjemtaget endnu et DM til Hornslet Skoleskak
-thumbnail: (/images/pige-dm2023.jpg)
-featureImage: (/images/pige-dm2023.jpg)
+thumbnail: /images/pige-dm2023.jpg
+featureImage: /images/pige-dm2023.jpg
 ---
 Mille Sinding vandt DM ved Pige-DM i aldersgruppen 3.-4. klasse. Mille gjorde rent bord i de første 8 runder og havde sikret sig danmarksmesterskabet inden sidste runde. Eneste tabsparti var i 9. runde.
 
