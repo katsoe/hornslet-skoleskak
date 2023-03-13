@@ -9,6 +9,8 @@ Mille Sinding vandt DM ved Pige-DM i aldersgruppen 3.-4. klasse. Mille gjorde re
 
 Pige-DM blev afholdt på Fredericia Realskole den 11.-12. marts.
 
-Foruden Mille deltog Elisa Bundgaard Kühl i aldersgruppen 0.-2.-klasse. Gruppen var slået sammen med 3.-4. klasse. På trods af det opnåede Elisa 3,5 point og sluttede som nr. 15 i den samlede gruppe.
+Foruden Mille deltog Elisa Bundgaard Kühl i aldersgruppen 0.-2.-klasse. Gruppen var slået sammen med 3.-4. klasse. På trods af det opnåede Elisa 3,5 point og sluttede som nr. 15 i den samlede gruppe. Det rakte til en bronzemedalje i aldersgruppen 0.-2. klasse.
+
+
 
 Mille Sinding danmarksmester ved Pige-DM
