@@ -8,6 +8,6 @@ Det 11. Herredsvang Open afholdes søndag den 16. april kl. 9:30 i Kulturhus Her
 
 Der spilles efter styrke i grupperne A-B-C-D-E-F og N
 
-Hele indbydelsen kan ses på [www.aarhusgrandprix.dk](www.aarhusgrandprix.dk)
+Hele indbydelsen kan ses på [www.aarhusgrandprix.dk](http:\\www.aarhusgrandprix.dk)
 
 ![](/images/pexels-chess.jpg)
