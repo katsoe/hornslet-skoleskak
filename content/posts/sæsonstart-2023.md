@@ -5,10 +5,10 @@ description: Hornslet Skoleskak starter sæsonen 2023-24 torsdag den 7. septembe
   kl. 15:30. Bemærk at vi flytter til lokale 111. Det er stadig i klassefløjen i
   stueetagen, men i den anden ende.
 ---
+![](/images/skakspil2.jpg)
+
 Hornslet Skoleskak starter sæsonen 2023/24 torsdag den 7. september kl. 15:30. Bemærk at vi flytter til lokale 111. Det er stadig i klassefløjen i stueetagen, men i den anden ende. Man går ned ad gangen forbi SFO'en fortsætter. Lokalet ligger på højre side.
 
 V﻿el mødt
 
 J﻿ens Tejlgaard
-
-![](/images/logo-skoleskak.jpg)
