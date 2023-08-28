@@ -48,7 +48,7 @@ series = "series"
 author = "Jens Tejlgaard"
 twitter = ""
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Hornslet Skoleskak er en skakklub for børn i skolealderen. Vi spiller i klassefløjen i stuen lige over for SFOen hver torsdag fra 15:30 - 17:30"
+introDescription = "Hornslet Skoleskak er en skakklub for børn i skolealderen. Vi spiller i klassefløjen i lokale 111 hver torsdag fra 15:30 - 17:30"
 description = ""
 searchTypes = ["posts"]
 
