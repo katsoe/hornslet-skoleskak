@@ -1,12 +1,12 @@
 ---
 title: DM-kvalifikation 2023
 date: 2023-10-27T15:55:04.175Z
-description: DM-kvalifikation 2022/Kredsmesterskab 2022 afholdes den lørdag 11.
+description: DM-kvalifikation 2023/Kredsmesterskab 2023 afholdes den lørdag 11.
   november i Kulturhus Herredsvang
 ---
 ![](/images/skakspil.jpg)
 
-DM-kvalifikation 2022/Kredsmesterskab 2022 afholdes den lørdag 11. november kl. 9:30 til ca. 14:30 i Kulturhus Herredsvang, Kappelvænget 2, 8210 Aarhus V. 
+DM-kvalifikation 2023/Kredsmesterskab 2023 afholdes den lørdag 11. november kl. 9:30 til ca. 14:30 i Kulturhus Herredsvang, Kappelvænget 2, 8210 Aarhus V. 
 
 G﻿ruppeinddelingen er efter klassetrin. 
 
