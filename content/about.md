@@ -19,8 +19,8 @@ Hornslet Skoleskaks bestyrelse består af
 Fuldt medlemskab: 200 kr. halvårligt - dækker også delvis medlemskab af Syddjurs Skakklub
 
 Passivt medlemskab: 100 kr. halvårligt
-Et passivt medlemskab dækker
-. Man stiller op for Hornslet Skoleskak ved GP-turneringer.
-. Man er automatisk medlem af Dansk Skoleskak.
-. Man er velkommen til ind imellem at komme om torsdagen, hvis der er mulighed for det.
-. Til gengæld kan man ikke deltage i Hornslet Skoleskaks juleturnering og klubturnering.
+Et passivt medlemskab dækker:
+* Man stiller op for Hornslet Skoleskak ved GP-turneringer.
+* Man er automatisk medlem af Dansk Skoleskak.
+* Man er velkommen til ind imellem at komme om torsdagen, hvis der er mulighed for det.
+* Til gengæld kan man ikke deltage i Hornslet Skoleskaks juleturnering og klubturnering.
