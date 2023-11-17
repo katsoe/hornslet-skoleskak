@@ -18,3 +18,13 @@ F﻿ølgende 9 spillere deltog for Hornslet Skoleskak.
 * O﻿liver Kruse Lund i F-gruppen
 * L﻿auge Würtz Meyhoff i C-gruppen
 * T﻿hor Thornemann, Alexander C. O. Grouleffe og Anders Nygård i N-gruppen (hvorfra man ikke kunne kvalificere sig til DM)
+
+D﻿et lykkedes 4 spillere at kvalificere til DM, som afholdes 24.-26. november:
+
+* H﻿alfdan og Benjamin
+* M﻿ille
+* O﻿liver
+
+D﻿erudover er Noa Sinding forhåndskvalificeret, da han vandt DM sidste år i C-gruppen. Denne gang skal han spille i B-gruppen.
+
+H﻿eld og lykke til alle spillerne. Man kan følge med på www.skoleskak.dk/DM2023
