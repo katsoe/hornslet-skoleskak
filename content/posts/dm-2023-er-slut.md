@@ -16,6 +16,6 @@ I﻿ D-gruppen fik Benjamin en 11. plads med 5 points. Der var 56 deltagere i gr
 
 I﻿ E-gruppen fik Mille en flot 7. plads med 5½ points. Her var der 72 deltagere!
 
-E﻿ndelig fik Oliver en 17. plads med 4½ points. Her var der 44 deltagere.
+E﻿ndelig fik Oliver en 17. plads med 4½ points i F-gruppen. Her var der 44 deltagere.
 
 A﻿lle resultaterne kan ses på https://skoleskak.dk/dm2023/
