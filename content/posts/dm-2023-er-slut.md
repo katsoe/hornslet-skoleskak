@@ -1,10 +1,11 @@
 ---
 title: DM 2023 er slut
 date: 2023-11-26T11:45:44.403Z
+thumbnail: /images/dm2023.jpg
+featureImage: /images/dm2023.jpg
 description: Noa Sinding fik sølv ved DM 2023. Generelt repræsenterede Hornslet
-  spillerne sig på flottest vis ved fine placeringer.
+  spillerne sig på flotteste vis ved fine placeringer.
 ---
-![](/images/dm2023.jpg)
 
 D﻿e 5 deltagere fra Hornslet Skoleskak. Bagerst fra venstre Noa Sinding, Halfdan Horn og Benjamin Schjak Baagø. Forrest fra venstre Mille Sinding og Oliver Nikola Kruse Lund.
 
