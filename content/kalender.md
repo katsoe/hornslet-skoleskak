@@ -2,47 +2,42 @@
 title: "Aktivitetskalender"
 slug: "/aktivitetskalender/"
 discussionId: "/aktivitetskalender/"
-date: 2022-10-10
+date: 2023-11-27
 ---
 
-**Skoleskakåret 2022/2023**
+**Skoleskakåret 2023/2024**
 
 
 | **Dato** | **Aktivitet** |
 | --- | --- |
-| 27. oktober | Træning |
-| 3. november | Træning |
-| *6. november* | *DM-kvalifikation* |
-| 10. november | Træning |
-| 17. november| Træning |
-| 24. november | Træning |
-| *25.-27. november* | *DM i skoleskak* |
-| 1. december | Træning |
-| *3. december* | *Skanderborg GB* |
-| 8. december | Træning |
-| 15. december | Træning |
-| 22. december | JULEFERIE |
-| 29. december | JULEFERIE |
-| 5. januar | Træning |
-| 12. januar | Træning |
-| *14. januar* | *Midtjysk GP* |
-| 19. januar | Træning |
-| 26. januar | Træning |
-| 2. februar | Træning |
+| 30. november | Træning |
+| *2. december* | *2. træning Herredsvang* |
+| 7. december | Træning |
+| 14. december | Træning |
+| 21. december | JULEFERIE |
+| 28. december | JULEFERIE |
+| 4. januar | Træning |
+| 11. januar | Træning |
+| *13. januar* | *Midtjysk GP* |
+| 18. januar | Træning |
+| 25. januar | Træning |
+| 1. februar | Træning |
 | *3. februar* | *Rosenholm GP* |
-| 9. februar | Træning |
-| 16. februar | VINTERFERIE |
-|  | *Herredsvang GP* |
-| 23. februar | Træning |
+| 8. februar | Træning |
+| 15. februar | VINTERFERIE |
+| 22. februar | Træning |
+| *24. februar* | *3. træning Herredsvang* |
+| 29. februar | Træning |
 | 2. marts | Træning |
-| *3. marts* | *DM Kval for hold* |
-| 9. marts | Træning |
-| 16. marts | Træning |
-| *18. marts* | *Randers GP* |
-| 23. marts | Træning |
-| 30. marts | Træning |
-| 6. april | PÅSKEFERIE |
-| 13. april | Træning |
-| *15. april* | *Aarhusmesterskabet* |
-| 20. april | Træning |
-| 27. april | AFSLUTNING |
+| 7. marts | Træning |
+| 14. marts | Træning |
+| *16. marts* | *Randers GP* |
+| 21. marts | Træning |
+| 28. marts | PÅSKEFERIE |
+| 4. april | Træning |
+| 11. april | Træning |
+| *14. april* | *Herredsvang GP* |
+| 18. april | Træning |
+| 25. april | AFSLUTNING |
+| 28. april | Aarhusmesterskabet |
+| 1. juni | 4. træning Herredsvang |
