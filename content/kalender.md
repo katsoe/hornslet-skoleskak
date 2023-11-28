@@ -28,7 +28,6 @@ date: 2023-11-27
 | 22. februar | Træning |
 | *24. februar* | *3. træning Herredsvang* |
 | 29. februar | Træning |
-| 2. marts | Træning |
 | 7. marts | Træning |
 | 14. marts | Træning |
 | *16. marts* | *Randers GP* |
