@@ -1,5 +1,5 @@
 ---
-title: Det Midjyske Mesterskab 2024
+title: Det Midtjyske Mesterskab 2024
 date: 2024-01-02T17:19:52.041Z
 description: Det Midtjyske Mesterskab afholdes lørdag den 13. januar kl. 9:30 i
   Lunden i Silkeborg
