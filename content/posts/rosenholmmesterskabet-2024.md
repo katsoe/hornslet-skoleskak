@@ -2,8 +2,9 @@
 title: Rosenholmmesterskabet 2024
 date: 2024-01-21T11:39:05.545Z
 description: Rosenholmmesterskabet afholdes på Hornslet Skole lørdag den 3. februar.
+thumbnail: /images/pexels-chess.jpg
+featureImage: /images/pexels-chess.jpg
 ---
-![](/images/pexels-chess.jpg)
 
 Hornslet Skoleskak inviterer til kampen om at blive Rosenholmmester i skoleskak. Turneringen tæller med i Grand-Prix Mesterskabet.
 
