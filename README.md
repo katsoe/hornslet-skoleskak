@@ -1,1 +1,1 @@
-# Example blog
+# Hornslet Skoleskaks hjemmeside
