@@ -5,7 +5,7 @@ discussionId: "/aktivitetskalender/"
 date: 2024-11-01
 ---
 
-**Skoleskakåret 2023/2024**
+**Skoleskakåret 2024/2025**
 
 
 | **Dato** | **Aktivitet** |
