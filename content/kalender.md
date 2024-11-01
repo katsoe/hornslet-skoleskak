@@ -2,7 +2,7 @@
 title: "Aktivitetskalender"
 slug: "/aktivitetskalender/"
 discussionId: "/aktivitetskalender/"
-date: 2023-11-27
+date: 2024-11-01
 ---
 
 **Skoleskakåret 2023/2024**
@@ -10,33 +10,39 @@ date: 2023-11-27
 
 | **Dato** | **Aktivitet** |
 | --- | --- |
-| 30. november | Træning |
-| *2. december* | *2. træning Herredsvang* |
-| 7. december | Træning |
-| 14. december | Træning |
-| 21. december | JULEFERIE |
-| 28. december | JULEFERIE |
-| 4. januar | Træning |
-| 11. januar | Træning |
-| *13. januar* | *Midtjysk GP* |
-| 18. januar | Træning |
-| 25. januar | Træning |
-| 1. februar | Træning |
-| *3. februar* | *Rosenholm GP* |
-| 8. februar | Træning |
-| 15. februar | VINTERFERIE |
-| 22. februar | Træning |
-| *24. februar* | *3. træning Herredsvang* |
-| 29. februar | Træning |
-| 7. marts | Træning |
-| 14. marts | Træning |
-| *16. marts* | *Randers GP* |
-| 21. marts | Træning |
-| 28. marts | PÅSKEFERIE |
-| 4. april | Træning |
-| 11. april | Træning |
-| *14. april* | *Herredsvang GP* |
-| 18. april | Træning |
-| 25. april | AFSLUTNING |
-| 28. april | Aarhusmesterskabet |
-| 1. juni | 4. træning Herredsvang |
+| 2. november | DM kvalifikation |
+| 7. november | Træning |
+| 9. november | 3. træning Herredsvang |
+| 14. november | Træning |
+| 21. november | Træning |
+| 22.-24. november | DM i skoleskak |
+| 28. november | Træning |
+| 30. november | 4. træning Herredsvang |
+| 5. december | Træning  |
+|12. december | Træning |
+| 119. december | Træning |
+| 26. december | JULEFERIE |
+| 2. januar | JULEFERIE |
+| 9. januar | Træning |
+| 16. januar | Træning |
+| 18. januar | Midtjysk GP |
+| 30. januar | Træning |
+| 1. *februar* | *Rosenholm GP* |
+| 6. februar | Træning |
+| 13. februar | VINTERFERIE |
+| 20. februar | Træning |
+| *22. februar* | 1. *træning Herredsvang* |
+| 27. februar | Træning |
+| 28. februar | DM kval. for hold |
+| 6. marts | Træning |
+| 13. marts | Træning |
+| *15. marts* | *Randers GP* |
+| 20. marts | Træning |
+| 27. marts | Træning |
+| 3. april | Træning |
+| 5. april | Herredsvang Open GP |
+| 10. april | Træning |
+| 17. april | PÅSKEFERIE |
+| 24. april | AFSLUTNING |
+| *27. april** | *Aarhusmesterskabet* |
+| *7. juni* | *2. træning Herredsvang* |
